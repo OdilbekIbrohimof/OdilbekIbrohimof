@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Hi there 👋 I'm a Full-Stack developer
+TelegramLinkedIN
+About me
+🔭 I’m currently working on Robocode IT Academy
+🌱 I’m currently learning Vue3
+💬 Ask me about | Python
+Technology stack
+Back-end
+Python Django Django Rest Framework
+
+Databases
+Firebase PostgreSQL SQLite3
+
+Front-end
+- Basic Tools
+UI/UX Figma Photoshop Illustrator
+
+- Main
+HTML CSS Responsive Design Bootstrap Bulma Materialize
+
+- JavaScript
+JavaScript DOM JQuery JQuery Javascript Libs Vue.js
+
+Tools
+Linux Git GitHub
+
+Github Stats
+My GitHub stats
+
+Top Langs
+Top Langs
+
+Thank You !
