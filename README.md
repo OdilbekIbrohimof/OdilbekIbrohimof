@@ -57,6 +57,6 @@
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=OdilbekIbrohimof&hide=contribs,prs&show_icons=true&theme=highcontrast)](https://github.com/OdilbekIbrohimof/github-readme-stats)
 
 ## **Top Langs**
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rashidov21&layout=compact&theme=highcontrast)](https://github.com/Rashidov21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OdilbekIbrohimof&layout=compact&theme=highcontrast)](https://github.com/OdilbekIbrohimof/github-readme-stats)
 
 # Thank You !
