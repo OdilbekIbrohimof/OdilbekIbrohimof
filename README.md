@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm a Full-Stack developer
     
-<! -- <a href="https://instagram.com/oibrohimoff">
+<!-- <a href="https://instagram.com/oibrohimoff">
   <img align="left" alt="YouTube" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a> -->
 <a href="https://t.me/oibrohimoff">
